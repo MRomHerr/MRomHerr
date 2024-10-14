@@ -13,7 +13,6 @@ Tech enthusiast.<br>Currently studying Multiplatform Application Development (DA
 ![](https://github-contributor-stats.vercel.app/api?username=MRomHerr&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MRomHerr&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
 
