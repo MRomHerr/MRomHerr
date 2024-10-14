@@ -15,4 +15,5 @@ Tech enthusiast.<br>Currently studying Multiplatform Application Development (DA
 ---
 [![](https://visitcount.itsvg.in/api?id=MRomHerr&icon=5&color=3)](https://visitcount.itsvg.in)
 
-![Profile views](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/MRomHerr/MRomHerr)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=MRomHerr.MRomHerr)
+
