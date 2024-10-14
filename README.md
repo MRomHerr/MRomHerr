@@ -1,5 +1,4 @@
-Here's a cool emoji: :suspect:
- About Me:
+## :suspect: About Me:
 Tech enthusiast.<br>Currently studying Multiplatform Application Development (DAM), constantly learning and building new projects.
 
 
