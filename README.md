@@ -15,6 +15,5 @@ Tech enthusiast.<br>Currently studying Multiplatform Application Development (DA
 ---
 [![](https://visitcount.itsvg.in/api?id=MRomHerr&icon=5&color=3)](https://visitcount.itsvg.in)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MRomHerr.MRomHerr)
 
 
