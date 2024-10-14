@@ -15,8 +15,4 @@ Tech enthusiast.<br>Currently studying Multiplatform Application Development (DA
 ---
 [![](https://visitcount.itsvg.in/api?id=MRomHerr&icon=5&color=3)](https://visitcount.itsvg.in)
 
-![Profile views](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/{NOMBRE_DE_TU_USUARIO_GITHUB}/{NOMBRE_DE_TU_REPOSITORIO})
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/MRomHerr/MRomHerr)
