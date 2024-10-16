@@ -1,5 +1,7 @@
 ## :bowtie: About Me:
-:mortar_board: Tech enthusiast.<br>Currently studying Multiplatform Application Development (DAM), constantly learning and building new projects.
+Tech enthusiast.
+<br>
+:mortar_board:Currently studying Multiplatform Application Development (DAM), constantly learning and building new projects.
 
 
 # 💻 Tech Stack:
